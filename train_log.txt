@@ -1,0 +1,90 @@
+Epoch 1 mean training EMD loss: 0.0951.
+Epoch 1 completed. Mean EMD loss on val set: 0.0919.
+Epoch 2 mean training EMD loss: 0.0906.
+Epoch 2 completed. Mean EMD loss on val set: 0.0902.
+Epoch 3 mean training EMD loss: 0.0887.
+Epoch 3 completed. Mean EMD loss on val set: 0.0886.
+Epoch 4 mean training EMD loss: 0.0871.
+Epoch 4 completed. Mean EMD loss on val set: 0.0872.
+Epoch 5 mean training EMD loss: 0.0858.
+Epoch 5 completed. Mean EMD loss on val set: 0.0866.
+Epoch 6 mean training EMD loss: 0.0849.
+Epoch 6 completed. Mean EMD loss on val set: 0.0855.
+Epoch 7 mean training EMD loss: 0.0841.
+Epoch 7 completed. Mean EMD loss on val set: 0.0849.
+Epoch 8 mean training EMD loss: 0.0831.
+Epoch 8 completed. Mean EMD loss on val set: 0.0847.
+Epoch 9 mean training EMD loss: 0.0824.
+Epoch 9 completed. Mean EMD loss on val set: 0.0838.
+Epoch 10 mean training EMD loss: 0.0817.
+Epoch 10 completed. Mean EMD loss on val set: 0.0830.
+Epoch 11 mean training EMD loss: 0.0812.
+Epoch 11 completed. Mean EMD loss on val set: 0.0823.
+Epoch 12 mean training EMD loss: 0.0806.
+Epoch 12 completed. Mean EMD loss on val set: 0.0824.
+Epoch 13 mean training EMD loss: 0.0801.
+Epoch 13 completed. Mean EMD loss on val set: 0.0815.
+Epoch 14 mean training EMD loss: 0.0798.
+Epoch 14 completed. Mean EMD loss on val set: 0.0812.
+Epoch 15 mean training EMD loss: 0.0793.
+Epoch 15 completed. Mean EMD loss on val set: 0.0811.
+Epoch 16 mean training EMD loss: 0.0790.
+Epoch 16 completed. Mean EMD loss on val set: 0.0807.
+Epoch 17 mean training EMD loss: 0.0787.
+Epoch 17 completed. Mean EMD loss on val set: 0.0803.
+Epoch 18 mean training EMD loss: 0.0784.
+Epoch 18 completed. Mean EMD loss on val set: 0.0800.
+Epoch 19 mean training EMD loss: 0.0782.
+Epoch 19 completed. Mean EMD loss on val set: 0.0799.
+Epoch 20 mean training EMD loss: 0.0780.
+Epoch 20 completed. Mean EMD loss on val set: 0.0795.
+Epoch 21 mean training EMD loss: 0.0777.
+Epoch 21 completed. Mean EMD loss on val set: 0.0794.
+Epoch 22 mean training EMD loss: 0.0775.
+Epoch 22 completed. Mean EMD loss on val set: 0.0791.
+Epoch 23 mean training EMD loss: 0.0773.
+Epoch 23 completed. Mean EMD loss on val set: 0.0788.
+Epoch 24 mean training EMD loss: 0.0772.
+Epoch 24 completed. Mean EMD loss on val set: 0.0789.
+Epoch 25 mean training EMD loss: 0.0770.
+Epoch 25 completed. Mean EMD loss on val set: 0.0788.
+Epoch 26 mean training EMD loss: 0.0769.
+Epoch 26 completed. Mean EMD loss on val set: 0.0787.
+Epoch 27 mean training EMD loss: 0.0768.
+Epoch 27 completed. Mean EMD loss on val set: 0.0787.
+Epoch 28 mean training EMD loss: 0.0767.
+Epoch 28 completed. Mean EMD loss on val set: 0.0783.
+Epoch 29 mean training EMD loss: 0.0766.
+Epoch 29 completed. Mean EMD loss on val set: 0.0784.
+Epoch 29 mean training EMD loss: 0.0767.
+Epoch 29 completed. Mean EMD loss on val set: 0.0782.
+Epoch 30 mean training EMD loss: 0.0766.
+Epoch 30 completed. Mean EMD loss on val set: 0.0783.
+Epoch 31 mean training EMD loss: 0.0763.
+Epoch 31 completed. Mean EMD loss on val set: 0.0786.
+Epoch 32 mean training EMD loss: 0.0763.
+Epoch 32 completed. Mean EMD loss on val set: 0.0781.
+Epoch 33 mean training EMD loss: 0.0762.
+Epoch 33 completed. Mean EMD loss on val set: 0.0784.
+Epoch 34 mean training EMD loss: 0.0761.
+Epoch 34 completed. Mean EMD loss on val set: 0.0781.
+Epoch 35 mean training EMD loss: 0.0760.
+Epoch 35 completed. Mean EMD loss on val set: 0.0777.
+Epoch 36 mean training EMD loss: 0.0759.
+Epoch 36 completed. Mean EMD loss on val set: 0.0781.
+Epoch 37 mean training EMD loss: 0.0759.
+Epoch 37 completed. Mean EMD loss on val set: 0.0778.
+Epoch 38 mean training EMD loss: 0.0758.
+Epoch 38 completed. Mean EMD loss on val set: 0.0780.
+Epoch 39 mean training EMD loss: 0.0757.
+Epoch 39 completed. Mean EMD loss on val set: 0.0778.
+Epoch 40 mean training EMD loss: 0.0757.
+Epoch 40 completed. Mean EMD loss on val set: 0.0775.
+Epoch 41 mean training EMD loss: 0.0755.
+Epoch 41 completed. Mean EMD loss on val set: 0.0774.
+Epoch 42 mean training EMD loss: 0.0755.
+Epoch 42 completed. Mean EMD loss on val set: 0.0778.
+Epoch 43 mean training EMD loss: 0.0755.
+Epoch 43 completed. Mean EMD loss on val set: 0.0777.
+Epoch 44 mean training EMD loss: 0.0753.
+Epoch 44 completed. Mean EMD loss on val set: 0.0776.
